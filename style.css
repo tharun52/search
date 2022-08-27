@@ -1,0 +1,45 @@
+.center{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+.center_advanced{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+}
+
+.custom_margin_vertical {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.custom_margin_vertical_image {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+.icon_image_margin {
+    margin-left: 175px;
+}
+.custom_margin_horizontal {
+    margin-left: 25px;
+    margin-right: 25px; 
+}
+
+.top-right {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    float: right;
+    margin: 5px;
+}
+
+.nav-image{
+    position: relative;
+    left: 475px;
+}
+.top-right-margin {
+    margin: 5px;
+}
